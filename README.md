@@ -1,7 +1,7 @@
 # emberjs-phonebook
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+An ember application developed as an exercise to get familiar with Ember.
+The phonebook displays contacts in the left panel that are expanded when clicked on. 
 
 ## Prerequisites
 
